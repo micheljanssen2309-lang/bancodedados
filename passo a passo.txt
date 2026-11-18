@@ -1,0 +1,7 @@
+ Os comandos sempre começam com a palavra "git"
+
+1. git status
+
+2. git init "init = iniciar"
+
+3. git status 
